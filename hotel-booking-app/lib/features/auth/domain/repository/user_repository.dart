@@ -16,3 +16,4 @@ abstract interface class IUserRepository {
 
   Future<Either<Failure, String>> uploadImage(File file);
 }
+//userrepo
