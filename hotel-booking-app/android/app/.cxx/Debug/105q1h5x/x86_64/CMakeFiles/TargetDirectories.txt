@@ -1,0 +1,2 @@
+C:/Users/shisi/OneDrive/Desktop/rangeen/fianl mobile/hotelbooking-mobile/hotel-booking-app/android/app/.cxx/Debug/105q1h5x/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/shisi/OneDrive/Desktop/rangeen/fianl mobile/hotelbooking-mobile/hotel-booking-app/android/app/.cxx/Debug/105q1h5x/x86_64/CMakeFiles/rebuild_cache.dir
