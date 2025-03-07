@@ -5,6 +5,7 @@ import '../../../../app/shared_prefs/token_shared_prefs.dart';
 import '../../../../app/usecase/usecase.dart';
 import '../../../../core/error/failure.dart';
 import '../repository/user_repository.dart';
+//loginuser
 
 class LoginUserParams extends Equatable {
   final String email;
