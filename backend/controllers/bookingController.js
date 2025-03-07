@@ -3,7 +3,7 @@ import { HotelModel } from "../models/Hotel.js";
 
 export const createBooking = async (req, res, next) => {
   try {
-    const { hotelId, checkInDate, checkOutDate, guests, room } = req.body;
+    const { hotelId, checkInDate, checkOutDate, guests, room } = req.body; //booking
 
     if (!hotelId || !checkInDate || !checkOutDate || !guests || !room) {
       return res.status(400).json({ message: "All fields are required!" });
