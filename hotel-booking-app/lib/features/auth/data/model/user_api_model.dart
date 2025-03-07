@@ -13,6 +13,7 @@ class UserApiModel extends Equatable {
   final String password;
 
   // @JsonKey(name: 'photo') // Maps the server field "photo" to the "image" field
+  //userapi
   final String? photo;
 
   const UserApiModel({

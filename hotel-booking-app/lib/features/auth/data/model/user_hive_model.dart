@@ -7,6 +7,7 @@ import '../../domain/entity/user_entity.dart';
 
 part 'user_hive_model.g.dart';
 // dart run build_runner build -d
+//user hive
 
 @HiveType(typeId: HiveTableConstant.userTableId)
 class UserHiveModel extends Equatable {
