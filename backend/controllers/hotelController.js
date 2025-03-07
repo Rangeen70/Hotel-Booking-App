@@ -4,6 +4,7 @@ import { HotelModel } from "../models/Hotel.js";
 export const createHotel = async (req, res, next) => {
   try {
     const upload = imageUpload.single("hotelImage"); // Allow only one image
+    //hotel controller
     upload(req, res, async function (err) {
       const {
         name,
