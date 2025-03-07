@@ -17,3 +17,4 @@ Map<String, dynamic> _$LoginDTOToJson(LoginDTO instance) => <String, dynamic>{
       'token': instance.token,
       'statusCode': instance.statusCode,
     };
+//logindto
