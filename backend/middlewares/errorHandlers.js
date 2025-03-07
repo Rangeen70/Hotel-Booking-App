@@ -11,3 +11,4 @@ export const errorResponseHandler = async (err, req, res, next) => {
     err.statusCode = 404;
     next(error);
   };
+  //errorhandlers

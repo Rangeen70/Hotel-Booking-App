@@ -15,6 +15,7 @@ import '../../features/home/presentation/view_model/home_cubit.dart';
 import '../../features/onboarding/presentation/view_model/onboarding_cubit.dart';
 import '../../features/splash/presentation/view_model/splash_cubit.dart';
 import '../shared_prefs/token_shared_prefs.dart';
+// di
 
 final getIt = GetIt.instance;
 

@@ -2,6 +2,7 @@ import JWT from "jsonwebtoken";
 import { UserModel } from "../models/User.js";
 import bcrypt from "bcryptjs";
 import { imageUpload } from "./../middlewares/imageUpload.js";
+// usercontroller
 
 export const register = async (req, res, next) => {
   try {

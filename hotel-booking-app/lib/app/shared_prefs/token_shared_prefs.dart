@@ -30,6 +30,7 @@ class TokenSharedPrefs {
     try {
       await _sharedPreferences
           .remove('token'); // Removes the token from storage
+      //token
       return const Right(null);
     } catch (e) {
       return Left(SharedPrefsFailure(message: e.toString()));
