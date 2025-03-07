@@ -1,5 +1,6 @@
 import JWT from "jsonwebtoken";
 import { UserModel } from "../models/User.js";
+//auth
 
 export const authGuard = async (req, res, next) => {
   if (
