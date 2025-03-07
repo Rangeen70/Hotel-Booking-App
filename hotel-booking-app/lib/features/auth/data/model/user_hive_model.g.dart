@@ -5,6 +5,7 @@ part of 'user_hive_model.dart';
 // **************************************************************************
 // TypeAdapterGenerator
 // **************************************************************************
+//userhivemodel
 
 class UserHiveModelAdapter extends TypeAdapter<UserHiveModel> {
   @override
