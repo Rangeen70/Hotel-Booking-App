@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hotel_booking/features/dashboard/presentation/view/dashboard.dart';
 import 'package:hotel_booking/features/home/presentation/view/bottom_view/dashboard_view.dart';
+//loginview
 
 import '../view_model/login/login_bloc.dart';
 import 'register_view.dart';

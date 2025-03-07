@@ -15,3 +15,4 @@ class GetAllUserUsecase implements UsecaseWithoutParams {
     return userRepository.getAllUsers();
   }
 }
+//get all user

@@ -5,6 +5,7 @@ import '../../../../app/usecase/usecase.dart';
 import '../../../../core/error/failure.dart';
 import '../entity/user_entity.dart';
 import '../repository/user_repository.dart';
+//createuser
 
 class CreateUserParams extends Equatable {
   final String? id;
