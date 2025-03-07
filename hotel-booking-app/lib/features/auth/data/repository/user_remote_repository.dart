@@ -9,6 +9,7 @@ import '../data_source/remote_datasource/user_remote_data_source.dart';
 
 class UserRemoteRepository implements IUserRepository {
   final UserRemoteDataSource _userRemoteDataSource;
+  //userremote
 
   UserRemoteRepository(this._userRemoteDataSource);
 

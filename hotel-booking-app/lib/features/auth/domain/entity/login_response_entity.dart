@@ -6,3 +6,4 @@ class LoginResponseEntity {
 
   LoginResponseEntity({required this.user, required this.token});
 }
+//loginresponse
