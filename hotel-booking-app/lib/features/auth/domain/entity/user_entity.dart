@@ -17,6 +17,7 @@ class UserEntity extends Equatable {
     this.photo,
     required phone,
   });
+  //userentity
 
   @override
   List<Object?> get props => [id, email, username];
