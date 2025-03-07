@@ -5,6 +5,7 @@ class ApiEndpoints {
   static const Duration receiveTimeout = Duration(seconds: 1000);
 
   // // For Android Emulator
+  // api_endpoints
   static const String baseUrl = "http://10.0.2.2:8000/api/";
 
   // For iPhone
