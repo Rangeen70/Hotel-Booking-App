@@ -13,6 +13,7 @@ class LoginDTO {
   // final String role;
   // final String? image;
   // final String message;
+  // login
 
   LoginDTO({
     required this.success,
