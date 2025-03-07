@@ -13,3 +13,4 @@ router.patch("/book-cancel/:id", authGuard, cancelBooking);
 router.get("/", authGuard, getUserBookings);
 
 export default router;
+//bookinroutes
