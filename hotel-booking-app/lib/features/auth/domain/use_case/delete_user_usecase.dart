@@ -4,6 +4,7 @@ import 'package:equatable/equatable.dart';
 import '../../../../app/usecase/usecase.dart';
 import '../../../../core/error/failure.dart';
 import '../repository/user_repository.dart';
+//deleteuser
 
 class DeleteUserParams extends Equatable {
   final String id;
