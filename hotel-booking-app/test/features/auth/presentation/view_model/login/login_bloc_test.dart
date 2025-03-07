@@ -79,5 +79,6 @@ void main() {
     // Check for validation messages
     // expect(find.text('Enter a valid email address'), findsOneWidget);
     // expect(find.text('Password must be at least 8 characters'), findsOneWidget);
+    //hello
   });
 }
